@@ -1,0 +1,17 @@
+br\com\carlos\projeto01\dao\StatusDao.class
+br\com\carlos\projeto01\jsf\ClienteDao.class
+br\com\carlos\projeto01\jsf\StatusController.class
+br\com\carlos\projeto01\dao\MembroDao.class
+br\com\carlos\projeto01\dao\GenericDao.class
+br\com\carlos\projeto01\model\Categoria.class
+br\com\carlos\projeto01\model\Cliente.class
+br\com\carlos\projeto01\dao\TipoDao.class
+br\com\carlos\projeto01\model\Tipo.class
+br\com\carlos\projeto01\model\Status.class
+br\com\carlos\projeto01\dao\CategoriaDao.class
+br\com\carlos\projeto01\jsf\TipoController.class
+br\com\carlos\projeto01\jsf\MembroController.class
+br\com\carlos\projeto01\dao\database\HibernateUtil.class
+br\com\carlos\projeto01\jsf\CategoriaController.class
+br\com\carlos\projeto01\jsf\ClienteController.class
+br\com\carlos\projeto01\model\Membro.class
